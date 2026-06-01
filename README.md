@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **JRBucher/JRBucher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am currently learning Python and Java. I have taken Python classes and are currently enrolled in a Java class. 
+I have experience with Python, Java, C#, HTML, CSS, & XAML. I am currently developing my own iOS / Android Mobile Application in my spare time.  
 
